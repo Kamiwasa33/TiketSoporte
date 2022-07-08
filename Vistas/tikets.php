@@ -22,7 +22,7 @@
             </tr>         
         </thead>
         <tbody>
-            <?php 
+            <?php
                 foreach($data["tikets"] as $dato){
                 echo "<tr>";
                 echo "<td>".$dato["id"]."</td>";
