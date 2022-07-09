@@ -1,4 +1,7 @@
 <?php
+    require_once "vendor/autoload.php";
+    $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+    $dotenv->safeLoad();
     require_once "Config/db.php";
     require_once "Core/rutas.php";
     require_once "Config/config.php";
