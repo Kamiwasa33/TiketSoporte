@@ -1,0 +1,15 @@
+{
+    "name": "des_web_01/tiket-soporte",
+    "description": "MVC simple con Bootstrap",
+    "autoload": {
+        "psr-4": {
+            "DesWeb01\\TiketSoporte\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asavalx"
+        }
+    ],
+    "require": {}
+}
