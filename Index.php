@@ -5,7 +5,7 @@
     require_once "Config/db.php";
     require_once "Core/rutas.php";
     require_once "Config/config.php";
-    require_once "Control/Tiketscontroler.php";
+    require_once "Control/tiketscontroler.php";
 
     //llamar controlador fijo
     //$control = new tiketscontroler();
