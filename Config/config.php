@@ -1,4 +1,4 @@
 <?php
     define ("CONTROLADOR_PRINCIPAL","Tikets");
-    define ("ACCION_PRINCIPAL","Index");
+    define ("ACCION_PRINCIPAL","index");
 ?>

@@ -10,7 +10,7 @@
     </head>
     <body>
         <h2><?php echo $data["titulo"]; ?></h2>
-        <a class="btn btn-outline-primary" role="button" href="Index.php"> <i class="bi bi-house-door"></i> PRINCIPAL</a>
+        <a class="btn btn-outline-primary" role="button" href="index.php"> <i class="bi bi-house-door"></i> PRINCIPAL</a>
         <p></p>
         <form id="modificar" name="modificar" method="POST" action="index.php?c=tikets&a=actualizar" autocomplete="off">
         <table whdth="80%">
